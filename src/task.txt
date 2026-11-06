@@ -1,0 +1,16 @@
+# Aufgabe 1 (Punkte und Vektoren)
+CAGDÜbung1
+Implementieren Sie die Punkt- und Vektorklasse aus der Vorlesung in 2D. 4 Punkte
+
+# Aufgabe 2 (obj)
+Implementieren Sie das Einlesen eines Polygonzuges aus einem obj file. Zeigen Sie den einge
+lesenen Polygonzug an. 4 Punkte
+
+# Aufgabe 3 (Polygon Editierung)
+Implementieren Sie das Hinzufügen, Löschen, Verschieben von Punkten. Die Punkte können
+dabei Teil eines Polygons bzw. eines Polygonzuges sein oder einzeln vorliegen. 6 Punkte
+
+# Aufgabe 4 (Positionierung)
+Zeichnen Sie die beiden Koordinatenachsen ein und die Punkte bzw. den Polygonzug. Imple
+mentieren Sie eine mittige Positionierung ihres aktuell betrachteten Objektes, ein rein- und
+rauszoomen und ermöglichen Sie ein Verschieben. 6 Punkte
